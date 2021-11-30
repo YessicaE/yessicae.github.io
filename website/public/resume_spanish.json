@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Yessica Xiomara Estevez Gamez",
+    "image": "profilepic.png",
+    "phone": "3158040760",
+    "email": "yessica.esga@gmail.com",
+    "address": {
+      "street": "Calle 56 Sur # 28'42. Apto 402",
+      "city": "Bogotá",
+      "state": "Cundinamarca",
+      "zip": ""
+    },
+    "occupation": "Química",
+    "description": "Poseo competencias en la síntesis de nuevos materiales, caracterización (Ir, Uv-vis, DRX y Raman) y análisis de resultados de manera crítica y propositiva, con fines científicos o industriales. Cuento con conocimientos en el área de calidad, habilidades en la búsqueda de información en bases de datos confiables, actitudes y aptitudes de trabajo autónomo y en equipo, cooperación, motivación, autocontrol, meticulosidad y continuo aprendizaje.",
+    "bio": "Poseo competencias en la síntesis de nuevos materiales, caracterización (Ir, Uv-vis, DRX y Raman) y análisis de resultados de manera crítica y propositiva, con fines científicos o industriales. Cuento con conocimientos en el área de calidad, habilidades en la búsqueda de información en bases de datos confiables, actitudes y aptitudes de trabajo autónomo y en equipo, cooperación, motivación, autocontrol, meticulosidad y continuo aprendizaje.",
+    "website": "http://www.yessicae.github.io",
+    "resumedownload": "https://github.com/YessicaE/yessicae.github.ioo/raw/master/resume/CV_Yessica_Xiomara_Estevez_Gamez .pdf",
+    "social": [     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yessica-xiomara-estevez-gamez-6ab5b81b0/",
+        "className": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume": {
+    "work": [
+      {
+        "company": "Universidad Industrial de Santander",
+        "title": "Investigadora Química, proyecto de grado - LEAM",
+        "years": "Febrero 2019 - Junio 2020",
+        "description": "SÍNTESIS Y CARACTERIZACIÓN DE MATERIALES COMPUESTOS: RGO@SDS, RGO@SLES Y EVALUACIÓN DE SU EFECTO SURFACTANTE EN LA INTERFAZ AGUA/CRUDO. Diseñar, sintetizar, analizar, modificar y caracterizar componentes químicos. Diseñar, dirigir y gestionar procesos que disminuyan el impacto en el medio ambiente. Caracterización: IR, UV-vis, DLS, DRX, Tensiómetro. Convenio UIS-ECOPETROL. Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co."
+      },
+      {
+        "company": "Grupo de investigación, LEAM, UIS",
+        "title": "Auxiliar de laboratorio",
+        "years": "Octubre 2019 - Febrero 2020",
+        "description": "Realizar almacenamiento de muestras, productos y materiales según procedimientos técnicos y normativas. Operar y mantener equipos e instrumentos de uso básico de laboratorio según procedimientos técnicos y normativas. Mantener condiciones de salud y seguridad en el laboratorio según normativa. Apoyar en la inducción y realización de análisis y ensayos básicos, iniciales o preliminares a integrantes nuevos del grupo de investigación. Realizar inventarios de materiales, equipos e inmobiliarios. Registrar y entregar los desechos de los reactivos químicos al profesional de SST. Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co"
+      },
+      {
+        "company": "PREICFES FUNDACIÓN ASOCAVID",
+        "title": "Docente de Química y matemáticas",
+        "years": "Marzo 2019 - Junio 2019", 
+        "description": "Elaborar y mantener actualizado el material de la materia bajo los lineamientos del ministerio de educación. Orientar a los estudiantes para que desarrollen las competencias necesarias para desenvolverse exitosamente en la prueba de ciencias naturales, especialmente en el área de Química y Matemáticas. Jefe inmediato: Guillermo Nieves Jerez. Celular: 3175621718."
+      },
+      {
+        "company": "Grupo académico LOGOS",
+        "title": "Docente de Química",
+        "years": "Febrero 2018 - Julio 2018",
+        "description": "Elaborar y mantener actualizado el material de la materia bajo los lineamientos del ministerio de educación. Orientar a los estudiantes para que desarrollen las competencias necesarias para desenvolverse exitosamente en la prueba de ciencias naturales, especialmente en el área de Química. Jefe inmediato: Yerson Fuentes. Celular: 3102189731."
+      }     
+    ],
+    "education": [
+      {
+        "school": "Universidad Industrial de Santander",
+        "degree": "QUÍMICA",
+        "graduated": "Octubre 2020",
+        "description": "",
+        "certificate": "#"
+      },
+      {
+        "school": "Colegio Café Madrid, Minuto de Dios - Bucaramanga",
+        "degree": "Bachiller Técnico",
+        "graduated": "Noviembre 2011",
+        "description": "",
+        "certificate": "#"
+      },
+      {
+        "school": "SENA",
+        "degree": "Técnica: DOCUMENTACIÓN Y REGISTRO DE OPERACIONES CONTABLES",
+        "graduated": "Noviembre 2010",
+        "description": "Centro de servicios empresariales y turísticos regional Santander",
+        "certificate": ""
+      }
+     
+    ],
+    "courses": [
+      {
+        "school": "Coursera",
+        "degree": "Tensorflow developer",
+        "graduated": "Octubre 2019",
+        "description": "Introducción al desarrollo de modelos de deep learning con el framework TensorFlow a través de 4 cursos virtuales.",
+        "certificate": "https://raw.githubusercontent.com/DaielChom/daielchom.github.io/master/certificates/tensorflow.pdf"
+      }
+     
+    ],
+    "volunteer": [],
+    "certificates":[],
+    
+    "skillmessage": "Las Habilidades y herramientas que manejo son las siguientes.",
+    "skills": [
+      {
+        "name": "machine learning: Python, scikit-learn, Tensorflow, numpy, pandas, Jupyter Notebooks, Matplotlib, Bokeh.",
+        "level": "70%"
+      },
+      {
+        "name": "desarrollo backend: GIT, GNU-LINUX, GOOGLE-APIS, docker, flask.",
+        "level": "60%"
+      },
+      {
+        "name": "desarrollo frontend: HTML, JS, CSS, REACT, Materialize, Normalaize",
+        "level": "50%"
+      },      
+      {
+        "name": "desarrollo móvil: java, ANDORID, CORONALAB",
+        "level": "30%"
+      },
+      {
+        "name": "Diseño gráfico: Inkscape, CorelDraw",
+        "level": "70%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "name":"David Fernando Gutiérrez Ramírez",
+        "type":"Personal",
+        "description":"Amigo Universidad",
+        "phone":"3044811962",
+        "email":"dguti0917@gmail.com"
+      },
+      {
+        "name":"Cristhian Camilo Rodríguez Pinzón",
+        "type":"Personal",
+        "description":"Amigo Universidad",
+        "phone":"3017510346",
+        "email":"rdz.cristhian@gmail.com"
+      }
+    ]
+  }
+}
