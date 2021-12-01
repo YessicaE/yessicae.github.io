@@ -91,7 +91,7 @@ class Resume extends Component {
                   </div>
                </div>
    
-               <div className="row education">
+               {/* <div className="row education">
                   <div className="three columns header-col">
                      <h1><span>{this.props.labels.certificates}</span></h1>
                   </div>
@@ -104,9 +104,9 @@ class Resume extends Component {
                      </div>
                   </div>
                </div>
+    */}
    
-   
-               <div className="row work">
+               {/* <div className="row work">
    
                   <div className="three columns header-col">
                      <h1><span>{this.props.labels.volunteering}</span></h1>
@@ -116,8 +116,8 @@ class Resume extends Component {
                      {volunteer}
                   </div>
                </div>
-   
-               <div className="row skill">
+    */}
+               {/* <div className="row skill">
    
                   <div className="three columns header-col">
                      <h1><span>{this.props.labels.skills}</span></h1>
@@ -134,7 +134,7 @@ class Resume extends Component {
                         </ul>
                      </div>
                   </div>
-               </div>
+               </div> */}
             </section>
          );}
 
