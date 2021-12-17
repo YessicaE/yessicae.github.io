@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Yessica Xiomara Estevez Gamez",
-    "image": "profile.jpg",
+    "image": "profile_new.jpg",
     "phone": "3158040760",
     "email": "yessica.esga@gmail.com",
     "address": {
@@ -11,10 +11,10 @@
       "zip": ""
     },
     "occupation": "Química",
-    "description": "Poseo competencias en la síntesis de nuevos materiales, caracterización (Ir, Uv-vis, DRX y Raman) y análisis de resultados de manera crítica y propositiva, con fines científicos o industriales. Cuento con conocimientos en el área de calidad, habilidades en la búsqueda de información en bases de datos confiables, actitudes y aptitudes de trabajo autónomo y en equipo, cooperación, motivación, autocontrol, meticulosidad y continuo aprendizaje",
-    "bio": "Poseo competencias en la síntesis de nuevos materiales, caracterización (Ir, Uv-vis, DRX y Raman) y análisis de resultados de manera crítica y propositiva, con fines científicos o industriales. Cuento con conocimientos en el área de calidad, habilidades en la búsqueda de información en bases de datos confiables, actitudes y aptitudes de trabajo autónomo y en equipo, cooperación, motivación, autocontrol, meticulosidad y continuo aprendizaje.",
+    "description": "Poseo competencias en diseño, síntesis, análisis y caracterización de componentes químicos específicamente nanoestructuras de carbono con propiedades interfaciales. Dominio principalmente de técnicas analíticas Uv-Vis, DRX y Raman. Cuento con conocimientos en el área de calidad y poseo actitudes de trabajo autónomo y en equipo enfocadas a la mejora contínua.",
+    "bio": "La curiosidad ha sido una cualidad que me ha caracterizado desde pequeña. He sido parte de grupos de investigación en distintas etapas de mi vida, los cuales poseen un enfoque en el área ambiental. Actualmente siento mucho interés por la programación orientada a análisis de datos. He realizado cursos de Python y me encuentro en continuo aprendizaje. Amigos, jefes y compañeros de trabajo me consideran una persona creativa, disciplinada, asertiva, responsable, amable, respetuosa y trabajadora.",
     "website": "http://www.yessicae.github.io",
-    "resumedownload": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/resume/CV_Yessica_Xiomara_Estevez_Gamez.pdf",
+    "resumedownload": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/resume/curriculum_yessica_estevez.pdf",
     "social": [     
       {
         "name": "linkedin",
@@ -29,25 +29,25 @@
         "company": "Universidad Industrial de Santander",
         "title": "Investigadora Química, proyecto de grado - LEAM",
         "years": "Febrero 2019 - Junio 2020",
-        "description": "SÍNTESIS Y CARACTERIZACIÓN DE MATERIALES COMPUESTOS: RGO@SDS, RGO@SLES Y EVALUACIÓN DE SU EFECTO SURFACTANTE EN LA INTERFAZ AGUA/CRUDO. Diseñar, sintetizar, analizar, modificar y caracterizar componentes químicos. Diseñar, dirigir y gestionar procesos que disminuyan el impacto en el medio ambiente. Caracterización: IR, UV-vis, DLS, DRX, Tensiómetro. Convenio UIS-ECOPETROL. Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co."
+        "description": "SÍNTESIS Y CARACTERIZACIÓN DE MATERIALES COMPUESTOS: RGO@SDS, RGO@SLES Y EVALUACIÓN DE SU EFECTO SURFACTANTE EN LA INTERFAZ AGUA/CRUDO. Diseño, síntesis, análisis y caracterización de componentes químicos específicamente nanoestructuras de carbono con propiedades interfaciales. Diseño de procesos que disminuyan el impacto en el medio ambiente. Caracterización: IR, UV-vis, DLS, DRX y pruebas de tensión interfacial. Convenio UIS-ECOPETROL. Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co."
       },
       {
         "company": "Grupo de investigación, LEAM, UIS",
         "title": "Auxiliar de laboratorio",
-        "years": "Octubre 2019 - Febrero 2020",
-        "description": "Realizar almacenamiento de muestras, productos y materiales según procedimientos técnicos y normativas. Operar y mantener equipos e instrumentos de uso básico de laboratorio según procedimientos técnicos y normativas. Mantener condiciones de salud y seguridad en el laboratorio según normativa. Apoyar en la inducción y realización de análisis y ensayos básicos, iniciales o preliminares a integrantes nuevos del grupo de investigación. Realizar inventarios de materiales, equipos e inmobiliarios. Registrar y entregar los desechos de los reactivos químicos al profesional de SST. Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co"
+        "years": "Noviembre 2019 - Febrero 2020",
+        "description": "Desarrollo de actividades de investigación y administrativas en temas relacionados con síntesis de sistemas nano-estructurados, caracterización espectroscópica y morfológica (Absorción UV-Vis, Espectroscopia Infrarroja, espectrometría de Masas, Microscopía Electrónica, etc.), análisis estadístico de datos, adquisición de reactivos, elementos y equipos de Laboratorio.Teléfono: 6344000 Ext. 3508. Correo: leam@ciencias.uis.edu.co"
       },
       {
         "company": "PREICFES FUNDACIÓN ASOCAVID",
         "title": "Docente de Química y matemáticas",
         "years": "Marzo 2019 - Junio 2019", 
-        "description": "Elaborar y mantener actualizado el material de la materia bajo los lineamientos del ministerio de educación. Orientar a los estudiantes para que desarrollen las competencias necesarias para desenvolverse exitosamente en la prueba de ciencias naturales, especialmente en el área de Química y Matemáticas. Jefe inmediato: Guillermo Nieves Jerez. Celular: 3175621718."
+        "description": "Orientación basado en desarrollo de competencias a estudiantes interesados en presentar el examen Saber 11°, específicamente en la prueba de Ciencias Naturales, área de Química. Jefe inmediato: Guillermo Nieves Jerez. Celular: 3175621718."
       },
       {
         "company": "Grupo académico LOGOS",
         "title": "Docente de Química",
         "years": "Febrero 2018 - Julio 2018",
-        "description": "Elaborar y mantener actualizado el material de la materia bajo los lineamientos del ministerio de educación. Orientar a los estudiantes para que desarrollen las competencias necesarias para desenvolverse exitosamente en la prueba de ciencias naturales, especialmente en el área de Química. Jefe inmediato: Yerson Fuentes. Celular: 3102189731."
+        "description": "Elaboración de material guía bajo los lineamientos del ministerio de educación. Y Orientación basado en desarrollo de competencias a estudiantes interesados en presentar el examen Saber 11°, específicamente en la prueba de Ciencias Naturales, área de Química. Jefe inmediato: Yerson Fuentes. Celular: 3102189731."
       }     
     ],
     "education": [
@@ -75,9 +75,16 @@
      
     ],
     "courses": [
+     {
+        "school": "Servicio Nacional de Aprendizaje – SENA",
+        "degree": "VARIABLES Y ESTRUCTURAS DE CONTROL EN PYTHON",
+        "graduated": "Noviembre 2021",
+        "description": "",
+        "certificate": "#"
+      },
       {
         "school": "SkillsBuild-IBM",
-        "degree": "HABILIDADES PROFESIONALE",
+        "degree": "HABILIDADES PROFESIONALES",
         "graduated": "Junio 2021",
         "description": "",
         "certificate": "#"
@@ -98,7 +105,7 @@
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
-        "degree": "OPERACION DE SISTEMAS DE POTABILIZACION DE AGUA",
+        "degree": "OPERACIÓN DE SISTEMAS DE POTABILIZACIÓN DE AGUA",
         "graduated": "Diciembre 2020",
         "description": "",
         "certificate": "#"
@@ -112,7 +119,7 @@
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
-        "degree": "ASEGURAMIENTO DE LA CALIDAD EN PRODUCTOS LACTEOS",
+        "degree": "ASEGURAMIENTO DE LA CALIDAD EN PRODUCTOS LÁCTEOS",
         "graduated": "Noviembre 2020",
         "description": "",
         "certificate": "#"
