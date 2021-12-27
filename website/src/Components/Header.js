@@ -4,7 +4,7 @@ class Header extends Component {
 
    render() {
 
-      if (this.props.data) {
+      if (this.props.data && this.props.labels) {
          var name = this.props.data.name;
          var occupation = this.props.data.occupation;
          var description = this.props.data.description;
