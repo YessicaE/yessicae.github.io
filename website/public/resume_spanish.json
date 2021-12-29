@@ -62,7 +62,7 @@
         "school": "Colegio Café Madrid, Minuto de Dios - Bucaramanga",
         "degree": "Bachiller Técnico",
         "graduated": "Noviembre 2011",
-        "description": "",
+        "description": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/DIPLOMA_BACHILLER.pdf",
         "certificate": "#"
       },
       {
@@ -70,7 +70,7 @@
         "degree": "Técnica: DOCUMENTACIÓN Y REGISTRO DE OPERACIONES CONTABLES",
         "graduated": "Noviembre 2010",
         "description": "Centro de servicios empresariales y turísticos regional Santander",
-        "certificate": ""
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/DIPLOMA_TECNICO_EN_DOCUMENTACION_Y_REGISTRO_DE_OPERACIONES_CONTABLES.pdf"
       }
      
     ],
@@ -80,77 +80,77 @@
         "degree": "VARIABLES Y ESTRUCTURAS DE CONTROL EN PYTHON",
         "graduated": "Noviembre 2021",
         "description": "",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/COMPLEMENTARIA_VIRTUAL_EN_VARIABLES_Y_ESTRUCTURAS_DE_CONTROL_EN_PYTHON.pdf"
       },
       {
         "school": "SkillsBuild-IBM",
         "degree": "HABILIDADES PROFESIONALES",
         "graduated": "Junio 2021",
         "description": "",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/HABILIDADES_PROFESIONALES.pdf"
       },
       {
         "school": "Cámara de comercio de Bogotá",
         "degree": "BUENAS PRÁCTICAS DE MANUFACTURA EN EL SECTOR DE ALIMENTOS",
         "graduated": "Febrero 2021",
         "description": "",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/BUENAS_PRACTICAS_DE_MANOFACTURA_EN_EL_SECTOR_DE_ALIMENTOS.pdf"
       },
       {
         "school": "Instituto Nacional de Metrología",
         "degree": "INTRODUCCIÓN A LA METROLOGÍA",
         "graduated": "Enero 2021",
         "description": "Módulo 1. Infraestructura de la calidad. Módulo 2. ¿Qué es la metrología?. Módulo 3. Organismos de calidad. Módulo 4. Midiendo para mejorar la calidad de vida.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/INTRODUCCION_A_LA_METROLOGIA.pdf"
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "OPERACIÓN DE SISTEMAS DE POTABILIZACIÓN DE AGUA",
         "graduated": "Diciembre 2020",
         "description": "Contenido: Generalidades del agua. Incidencias del agua en la salud. Potabilización de agua. Calidad del agua potable. Habilidades desarrolladas. Caracterizar agua en el sistema de potabilización de acuerdo con el estado del proceso y las normas técnicas.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/COMPLEMENTARIA_VIRTUAL_EN_OPERACION_DE_SISTEMAS_DE_POTABILIZACION_DE_AGUA.pdf"
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "ADITIVOS: ANÁLISIS Y CONTROL DE CALIDAD EN LA INDUSTRIA ALIMENTARIA",
         "graduated": "Diciembre 2020",
         "description": "Contenido: Generalidades de los aditivos. Uso de aditivos alimentarios. Sistemas de autocontrol. Análisis de calidad. Habilidades desarrolladas. Realizar en alimentos análisis fisicoquímico de acuerdo al protocolo establecido.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/COMPLEMENTARIA_VIRTUAL_EN_ADITIVOS_ANALISIS_Y_CONTROL_DE_CALIDAD_EN_LA_INDUSTRIA_ALIMENTARIA.pdf"
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "ASEGURAMIENTO DE LA CALIDAD EN PRODUCTOS LÁCTEOS",
         "graduated": "Noviembre 2020",
         "description": "Contenido: Aseguramiento de las buenas prácticas de laboratorio. Plan de muestreo. Análisis de laboratorio para productos lácteos. Mantequilla. Habilidades desarrolladas. Realizar análisis de calidad en la industria láctea según procedimiento definido.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/COMPLEMENTARIA_VIRTUAL_EN_ASEGURAMIENTO_DE_LA_CALIDAD_EN_PRODUCTOS_LACTEOS.pdf"
       }, 
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "ASEGURAMIENTO DE LA CALIDAD EN PROCESAMIENTO DE FRUTAS Y VERDURAS",
         "graduated": "Noviembre 2020",
         "description": "Contenido: Aseguramiento de las buenas prácticas del laboratorio. Manipulación de los productos químicos. Normas técnicas de calidad Colombiana. Aplicación del sistema HACCP. Habilidades desarrolladas. Implementar el plan de calidad en el área de producción de acuerdo con las normas establecidas por el área de calidad.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/COMPLEMENTARIA_VIRTUAL_EN_ASEGURAMIENTO_DE_LA_CALIDAD_EN_PROCESAMIENTO_DE_FRUTAS_Y_VERDURAS.pdf"
       }, 
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "MANIPULACIÓN DE ALIMENTOS",
         "graduated": "Octubre 2020",
         "description": "Contenido: Establecer los diferentes factores de contaminación de un alimento de acuerdo a su clasificación y tipología, según la normatividad vigente. Identificar las diferentes enfermedades transmitidas por los alimentos, según el medio de desarrollo de los microorganismos. Proponer métodos para la limpieza, desinfección y control de plagas con base en las buenas prácticas de manipulación e higiene. Manejar las prácticas higiénicas del recurso humano y los Puntos Críticos de Control (PCC) de acuerdo al plan HACCP.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/CURSO_ESPECIAL_EN_MANIPULACION_DE_ALIMENTOS.pdf"
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN DE LA SEGURIDAD Y SALUD EN EL TRABAJO",
         "graduated": "Junio 2020",
         "description": "Contenido: Normatividad. Propósito. Conceptos generales (SG-SST-AT-EL). Organización del sistema de gestión de la seguridad y salud en el trabajo. Obligaciones de los empleadores. Obligaciones de las administradoras de riesgos laborales. Responsabilidades de los trabajadores. Evaluación inicial del sistema de gestión de la seguridad y salud en el trabajo. Planificación del SG-SST: Objetivos, metas, actividades, responsables, cronogramas, recursos del sistema, entre otros. Política de seguridad y salud en el trabajo. Objetivos de SG-SST. Metodología para la identificación de peligros, evaluación y valoración de los riesgos por actividad económica. Equipos y elementos de protección personal. Enfermedades laborales. Auditoria de cumplimiento del SG-SST.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/CURSO_ESPECIAL_EN_IMPLEMENTACION_DEL_SISTEMA_DE_GESTION_DE_LA_SEGURIDAD_Y_SALUD_EN_EL_TRABAJO.pdf"
       },        
       {
         "school": "Universidad Industrial de Santander.",
         "degree": "PROFUNDIZACIÓN EN EL USO DE CROMATOGRAFÍA: GC, GC-MS, HPLC Y A.A.",
         "graduated": "Julio 2019",
         "description": "Preparación de muestras y uso de equipos de laboratorio (cromatógrafo de gases, cromatógrafo de gases masas, cromatógrafo líquido de alta resolución y absorción atómica).",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/PROFUNDIZACION_EN_EL_USO_DE_CROMATOGRAFIA_DE_GASES_MASAS_Y_CROMATOGRAFIA_LIQUIDA_DE_ALTA_RESOLUCION_Y_ABSORCION_ATOMICA.pdf"
       },
       
       {
@@ -158,14 +158,14 @@
         "degree": "PREPARACIÓN DE SOLUCIONES ACUOSAS",
         "graduated": "Septiembre 2011",
         "description": "Contenido: Clasificación de soluciones. Medidas de concentración. Preparación de soluciones.",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/PREPARACION_DE_SOLUCIONES_ACUOSAS.pdf"
       },
       {
         "school": "Servicio Nacional de Aprendizaje – SENA",
         "degree": "OFIMÁTICA Y FUNDAMENTOS INFORMÁTICOS",
-        "graduated": "Diciembre 2019",
+        "graduated": "Diciembre 2009",
         "description": "",
-        "certificate": "#"
+        "certificate": "https://raw.githubusercontent.com/YessicaE/yessicae.github.io/main/certificates/FUNDAMENTOS_INFORMATICOS.pdf"
       }
      
     ],
